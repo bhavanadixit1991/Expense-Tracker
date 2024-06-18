@@ -15,7 +15,11 @@ SECRET_KEY = 'django-insecure--jt%1=1h$7z84qpb)offy_=4tpg7po6!f$a2#$h4)fpf5e$ulv
 DEBUG = False
 
 ALLOWED_HOSTS = ["*"]
-
+# List of trusted origins for CSRF protection
+CSRF_TRUSTED_ORIGINS = [
+    "https://expense-trackerapp-bockd2yhoa-as.a.run.app",  # Add your URL here
+    # Add more trusted origins if needed
+]
 
 # Application definition
 
