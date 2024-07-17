@@ -21,11 +21,11 @@ Developed a comprehensive expense tracker application with secure authentication
 - Deployed on Google Cloud Platform's Cloud Run for scalable and reliable performance.
 - Code pushed to a GitHub repository.
 
-### 💻 Link to Website
+## 💻 Link to Website
 [Expense Tracker App](https://expense-trackerapp-bockd2yhoa-as.a.run.app/)
 
 
-Let's Connect!
+## 🔗 Let's Connect!
 
 I'm always interested in new opportunities and collaboration. Feel free to reach out:
 
